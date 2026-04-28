@@ -19,4 +19,3 @@ View your app in AI Studio: https://ai.studio/apps/5e74e936-9c60-45f1-9664-91860
 3. Run the app:
    `npm run dev`
 "# punjab-emissions-inventory-platform" 
-
